@@ -1,0 +1,6 @@
+[submodule "Python HW4"]
+	path = Python HW4
+	url = git@github.com:Bthcorn/Python-HW.git
+[submodule "Python HW7"]
+	path = Python HW7
+	url = git@github.com:Bthcorn/Python-HW.git
